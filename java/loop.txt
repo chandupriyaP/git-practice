@@ -1,2 +1,4 @@
 for loop
 for each loop
+while loop
+do while
